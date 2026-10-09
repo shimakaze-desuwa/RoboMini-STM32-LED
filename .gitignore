@@ -1,0 +1,19 @@
+﻿# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.bak
+*.dep
+*.o
+*.d
+*.axf
+*.hex
+*.build_log.htm
+*.htm
+*.map
+*.lnp
+# 视频体积大，不放进代码仓库
+*.mp4
+*.mov
+*.avi
